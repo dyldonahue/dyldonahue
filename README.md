@@ -10,7 +10,7 @@ Hey! I'm a 2nd year Electrical & Computer Engineering Major at Northeastern Univ
 Most of my current work is done as a **Firmware Project lead** in Northeastern Electric Racing:
 https://github.com/Northeastern-Electric-Racing/shepherd_bms
 
-That project mostly consists of low-level C++ to interact with hardware, along with some higher level C++ Control Software.
+That project mostly consists of low-level C++ to interact with hardware, along with some higher level C++ control software.
 <br />
 <br />
 
