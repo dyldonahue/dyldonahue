@@ -27,5 +27,5 @@ That project mostly consists of low-level C++ to interact with hardware, along w
 
 
 
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyldonahue&theme=dark&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyldonahue&theme=transparent&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
