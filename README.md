@@ -1,10 +1,29 @@
-### Hi there 👋
+# Dylan Donahue
+## Northeastern ECE '26
+### Shepherd BMS Firmware Project Lead
+ <br />
 
-I'm a 2nd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 
+ 
 
-Most of my current work is done as a **Firmware Project lead** in Northeastern Electric Racing (Northeastern-Electric-Racing/shepherd_bms). 
+Hey! I'm a 2nd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 
 
-That project mostly consists of loe-level C++ to interact with hardware, along with some higher level C++ firmware
+Most of my current work is done as a **Firmware Project lead** in Northeastern Electric Racing:
+https://github.com/Northeastern-Electric-Racing/shepherd_bms
+
+That project mostly consists of low-level C++ to interact with hardware, along with some higher level C++ Control Software.
+<br />
+<br />
+
+
+### Shepherd BMS Firmware Project Focus:
+
+* Abstract CAN, SPI, I2C communication 
+* Develop control code to ensure correct behavior from charger, motor controller, & other peripherals
+* Recieve and process data from Accumulator & other peripherals.
+
+<br />
+
+
 
 
 
