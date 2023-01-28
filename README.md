@@ -18,7 +18,7 @@ That project mostly consists of low-level C++ to interact with hardware, along w
 ### Shepherd BMS Firmware Project Focus:
 
 * Abstract CAN, SPI, I2C communication 
-* Develop control code to ensure correct behavior from charger, motor controller, & other peripherals
+* Develop control code to ensure correct behavior from BMS, charger, motor controller, & other peripherals
 * Recieve and process data from accumulator & other peripherals.
 
 <br />
