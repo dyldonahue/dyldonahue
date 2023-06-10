@@ -1,5 +1,5 @@
 # Dylan Donahue
-## Northeastern ECE '26
+## Northeastern ECE '25
 ### Shepherd BMS Firmware Project Lead
  <br />
 
