@@ -5,12 +5,13 @@
 
  
 
-Hey! I'm a 2nd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 
+Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 
 
 Most of my current work is done as a **Firmware Project lead** in Northeastern Electric Racing:
 https://github.com/Northeastern-Electric-Racing/shepherd_bms
+https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2
 
-That project mostly consists of low-level C++ to interact with hardware, along with some higher level C++ control software.
+That project mostly consists of low-level C and C++ to interact with hardware, along with some higher level C++ control software.
 <br />
 <br />
 
