@@ -13,7 +13,7 @@ I develop a bare-metal C application to control & monitor A battery management s
 This repo contains all of this iteration's source code, buiilt in C for STM controllers
 
 🟦 https://github.com/Northeastern-Electric-Racing/Embedded-Base  
-This contains a bunch of driver-leveel code used in Shepherd BMS and other applications
+This contains a bunch of driver-level & interface code used in Shepherd BMS and other applications
 
 🟦 https://github.com/dyldonahue/ArcadeGame  
 This is a project im working on as I learn Rust - it's a retro-style 2D game built with ggez
