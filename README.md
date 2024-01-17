@@ -5,7 +5,6 @@
 ## Current Roles:
 ### Shepherd BMS Firmware Project Lead  
 I develop a bare-metal C application to control & monitor A battery manegemnt system onboard our teams' fully electric formula race car.
-
  <br />
 
 ## Current Work:   
