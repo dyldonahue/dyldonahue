@@ -4,7 +4,7 @@
 🟦 Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 🟦
 ## Current Roles:
 ### Shepherd BMS Firmware Project Lead  
-I develop a bare-metal C application to control & monitor A battery manegemnt system onboard our teams' fully electric formula race car.
+I develop a bare-metal C application to control & monitor A battery management system onboard our teams' fully electric formula race car.
  <br />
 
 ## Current Work:   
