@@ -1,7 +1,11 @@
 # Dylan Donahue
 ## Northeastern ECE '25
 
-[![My Skills](https://skillicons.dev/icons?i=d,cpp,rust,docker,py,linux)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,docker,py,linux" />
+  </a>
+</p>
 
 🟦 Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 🟦
 ## Current Roles:
