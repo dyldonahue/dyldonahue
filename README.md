@@ -28,5 +28,5 @@ This is a bare-metal C application that controls our cars' battery management sy
 I'm also currently working on a project to help me learn Rust, which is a 2D, retro arcade style game. I'm still developing it and learning Rust, but feel free to check it out here:  
 https://github.com/dyldonahue/ArcadeGame
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyldonahue&show_icons=true&theme=transparent)
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dyldonahue}&theme={transparent}
 
