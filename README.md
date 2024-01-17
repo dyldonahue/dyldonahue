@@ -8,8 +8,8 @@
 Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 
 
 Most of my current work is done as a **Firmware Project lead** in Northeastern Electric Racing:  
-https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2 (current year)  
-https://github.com/Northeastern-Electric-Racing/shepherd_bms (last year's iteration)  
+https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2 (current year - v2)  
+https://github.com/Northeastern-Electric-Racing/shepherd_bms (last year - v1)  
 https://github.com/Northeastern-Electric-Racing/Embedded-Base (custom driver code)  
 
 This is a bare-metal C application that controls our cars' battery management system, and it includes driver development and app dev.
