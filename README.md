@@ -8,7 +8,7 @@
 </p>
 
 <p align ="center">
-🟦 **Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA.**🟦
+🟦 **Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA**🟦
 </p>
 
 <br />
