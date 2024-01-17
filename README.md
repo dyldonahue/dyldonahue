@@ -1,32 +1,33 @@
 # Dylan Donahue
 ## Northeastern ECE '25
-### Shepherd BMS Firmware Project Lead
+
+Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA.  
+## Current Roles:
+### Shepherd BMS Firmware Project Lead  
+I develop a bare-metal C application to control & monitor A battery manegemnt system onboard our teams' fully electric formula race car.
+
  <br />
 
- 
+## Current Work:   
 
-Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern Univeristy in Boston, MA. 
+https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2  
+This repo contains all of this iteration's source code, buiilt in C for STM controllers
 
-Most of my current work is done as a **Firmware Project lead** in Northeastern Electric Racing:  
-https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2 (current year - v2)  
-https://github.com/Northeastern-Electric-Racing/shepherd_bms (last year - v1)  
-https://github.com/Northeastern-Electric-Racing/Embedded-Base (custom driver code)  
+https://github.com/Northeastern-Electric-Racing/Embedded-Base  
+This contains a bunch of driver-leveel code used in Shepherd BMS and other applications
 
-This is a bare-metal C application that controls our cars' battery management system, and it includes driver development and app dev.
-<br />
-<br />
-
-
-### Shepherd BMS Firmware Project Focus:
-
-* Abstract CAN, SPI, I2C communication 
-* Develop control code to ensure correct behavior from BMS, charger, motor controller, & other peripherals
-* Recieve and process data from accumulator & other peripherals.
+https://github.com/dyldonahue/ArcadeGame  
+This is a project im working on as I learn Rust - it's a retro-style 2D game built with ggez
 
 <br />
+<br />
 
-I'm also currently working on a project to help me learn Rust, which is a 2D, retro arcade style game. I'm still developing it and learning Rust, but feel free to check it out here:  
-https://github.com/dyldonahue/ArcadeGame
+## Past Work:
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dyldonahue}&theme={transparent}
+https://github.com/Northeastern-Electric-Racing/shepherd_bms  
+this is our first iteration of Shepherd BMS, built in C++ for Arduino based systems
+
+https://github.com/Northeastern-Electric-Racing/NERduino  
+a retired application that used to run on our custom Arduino copycat
+
 
