@@ -8,24 +8,30 @@
 </p>
 
 <p align="center">
-  Hey! I'm a 3rd year Electrical & Computer Engineering Major at Northeastern University in Boston, MA
+  Hey! I'm a Senior Electrical & Computer Engineering Major at Northeastern University in Boston, MA
 </p>
 
 
 <br />
 
 ## Current Roles:
-### Shepherd BMS Firmware Project Lead --> Incoming Head of Firmware
-I develop a bare-metal C application to control & monitor a battery management system onboard our teams' fully electric formula race car.
+### Head of Firmware, Northeastern Electric Racing
+Our team develops industry-level RTOS and bare metal applications for vehicle controls, sensing, and telemetry systems, used across our electric formula-style car.
  <br />
 
 ## Current Work:   
 
  🟦 https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2  
-This repo contains all of this iteration's source code, buiilt in C for STM controllers
+OUr fully custom, bare metal C battery management system application
+
+🟦 https://github.com/Northeastern-Electric-Racing/Cerberus
+RTOS vehicle control application
+
+🟦 https://github.com/Northeastern-Electric-Racing/Odysseus
+Our MQTT based telemtry system - powered by a custom linux distribution through buildroot
 
 🟦 https://github.com/Northeastern-Electric-Racing/Embedded-Base  
-This contains a bunch of driver-level & interface code used in Shepherd BMS and other applications
+driver-level & interface code used across various applications
 
 🟦 https://github.com/dyldonahue/ArcadeGame  
 This is a project im working on as I learn Rust - it's a retro-style 2D game built with ggez
@@ -35,9 +41,9 @@ This is a project im working on as I learn Rust - it's a retro-style 2D game bui
 ## Past Work:
 
 🟦 https://github.com/Northeastern-Electric-Racing/shepherd_bms  
-this is our first iteration of Shepherd BMS, built in C++ for Arduino based systems
+This is our first iteration of Shepherd BMS, built in C++ for Arduino based systems
 
 🟦 https://github.com/Northeastern-Electric-Racing/NERduino  
-a retired application that used to run on our custom Arduino copycat
+Northeastern Electric Racing's custom Arduino - powering early generation vehicle controls
 
 
