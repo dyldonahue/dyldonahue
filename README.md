@@ -21,7 +21,7 @@ Our team develops industry-level RTOS and bare metal applications for vehicle co
 
 ## Current Work:   
 
- 🟦 https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2  
+ 🟦 [Shepherd BMS v2.0](https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2)  
 OUr fully custom, bare metal C battery management system application
 
 🟦 https://github.com/Northeastern-Electric-Racing/Cerberus  
