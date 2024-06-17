@@ -24,10 +24,10 @@ Our team develops industry-level RTOS and bare metal applications for vehicle co
  🟦 https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2  
 OUr fully custom, bare metal C battery management system application
 
-🟦 https://github.com/Northeastern-Electric-Racing/Cerberus
+🟦 https://github.com/Northeastern-Electric-Racing/Cerberus  
 RTOS vehicle control application
 
-🟦 https://github.com/Northeastern-Electric-Racing/Odysseus
+🟦 https://github.com/Northeastern-Electric-Racing/Odysseus  
 Our MQTT based telemtry system - powered by a custom linux distribution through buildroot
 
 🟦 https://github.com/Northeastern-Electric-Racing/Embedded-Base  
