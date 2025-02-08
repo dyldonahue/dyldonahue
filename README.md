@@ -37,7 +37,7 @@ Our fully custom, bare metal C battery management system application
 RTOS vehicle control application
 
 🟦 [Odysseus](https://github.com/Northeastern-Electric-Racing/Odysseus)  
-Our MQTT based telemtry system - powered by a custom linux distribution through buildroot
+Our MQTT based telemetry system - powered by a custom linux distribution through buildroot
 
 🟦 [Embedded-Base](https://github.com/Northeastern-Electric-Racing/Embedded-Base)  
 driver-level & interface code used across various applications
