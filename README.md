@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm a Senior Electrical & Computer Engineering Major at Northeastern University in Boston, MA
+  Hey! I'm currently completing my Masters in Electrical & Computer Engineering at Northeastern University in Boston, MA
 </p>
 
 
