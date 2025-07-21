@@ -19,7 +19,7 @@
 ## I'm currently working on:
 
 🟦 [Equivariant Robotic Manipulation Benchmark](https://github.com/dyldonahue/mimicgen_benchmark)  
-This is a project I'm working on with Northeastern's Helping Hands lab to develop a Reinforcement Learning benchmark
+This is a project I'm working on with Northeastern's Helping Hands lab to develop a reinforcement learning benchmark
 that provides sample tasks with object poses utiliziing SO(3) space. This is built upon Robosuite and MimicGen
 
 
