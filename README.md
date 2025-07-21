@@ -16,13 +16,12 @@
 
 <br />
 
-## Here are a few of my active projects:
+## I'm currently working on:
 
-🟦 [Autunmous Drone Control]()
-This is our autonomus implementation for a 3D sensor drone Capstone project
+🟦 [Equivariant Robotic Manipulation Benchmark](https://github.com/dyldonahue/mimicgen_benchmark)  
+This is a project I'm working on with Northeastern's Helping Hands lab to develop a Reinforcement Learning benchmark
+that provides sample tasks with object poses utiliziing SO(3) space. This is built upon Robosuite and MimicGen
 
-🟦 [Secondary Sensor Board Firmware](https://github.com/Big-Dawgs-Capstone/ssb-firmware)
-This is a simple RTOS application to aggregate sensor data, process it, and pass it to a Jetson for the same Capstone project as above
 
 ## Past Roles & Work:
 ### Head of Firmware, Northeastern Electric Racing
@@ -50,6 +49,10 @@ This is our first iteration of Shepherd BMS, built in C++ for Arduino based syst
 Northeastern Electric Racing's custom Arduino - powering early generation vehicle controls
 
 ## Other Projects:
+
+🟦 [Hybrid GPU/CPU workload performance analysis ](https://github.com/dyldonahue/HPC/tree/main/final)  
+This project, which included a written report, measured the performance of a few benchmark algorithms
+when the workload was split (at various balances) between a p100 GPU and Xeon CPU. 
 
 🟦 [ROS2 Learning](https://github.com/dyldonahue/ROS2-intro)</p>
 A simple ROS2 simulation I used to help learn ROS2
