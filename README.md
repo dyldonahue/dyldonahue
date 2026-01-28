@@ -43,7 +43,7 @@ Northeastern Electric Racing's custom Arduino - powering early generation vehicl
 ## Other Projects:
 
 🟩 [Custom Load Address Predictor](https://github.com/dyldonahue/load-address-predictor)  
-I developed a novel looad address predictor and simulator based on the BERTI predictor
+I developed a novel load address predictor and simulator based on the BERTI predictor and tested it on state-of-the-art prefetching benchmarks
 
 🟩 [Hybrid GPU/CPU workload performance analysis ](https://github.com/dyldonahue/HPC/tree/main/final)  
 This project, which included a written report, measured the performance of a few benchmark algorithms
